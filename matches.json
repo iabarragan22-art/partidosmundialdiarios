@@ -1,0 +1,139 @@
+{
+  "version": "1.0",
+  "updated": "2026-06-20",
+  "tournament": "FIFA World Cup 2026",
+  "matches": [
+    {
+      "homeTeam": "México",
+      "awayTeam": "Ecuador",
+      "homeEmoji": "🇲🇽",
+      "awayEmoji": "🇪🇨",
+      "homeColors": ["#006847", "#CE1126", "#FFFFFF"],
+      "awayColors": ["#FFD100", "#003580", "#CE1126"],
+      "time": "18:00",
+      "group": "A",
+      "date": "2026-06-11"
+    },
+    {
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Canadá",
+      "homeEmoji": "🇺🇸",
+      "awayEmoji": "🇨🇦",
+      "homeColors": ["#B22234", "#FFFFFF", "#3C3B6E"],
+      "awayColors": ["#FF0000", "#FFFFFF", "#FF0000"],
+      "time": "21:00",
+      "group": "A",
+      "date": "2026-06-11"
+    },
+    {
+      "homeTeam": "Brasil",
+      "awayTeam": "Alemania",
+      "homeEmoji": "🇧🇷",
+      "awayEmoji": "🇩🇪",
+      "homeColors": ["#009C3B", "#FFDF00", "#002776"],
+      "awayColors": ["#000000", "#DD0000", "#FFCE00"],
+      "time": "15:00",
+      "group": "B",
+      "date": "2026-06-12"
+    },
+    {
+      "homeTeam": "Argentina",
+      "awayTeam": "España",
+      "homeEmoji": "🇦🇷",
+      "awayEmoji": "🇪🇸",
+      "homeColors": ["#74ACDF", "#FFFFFF", "#74ACDF"],
+      "awayColors": ["#AA151B", "#F1BF00", "#AA151B"],
+      "time": "21:00",
+      "group": "C",
+      "date": "2026-06-12"
+    },
+    {
+      "homeTeam": "Francia",
+      "awayTeam": "Portugal",
+      "homeEmoji": "🇫🇷",
+      "awayEmoji": "🇵🇹",
+      "homeColors": ["#002395", "#FFFFFF", "#ED2939"],
+      "awayColors": ["#006600", "#FF0000", "#FFFFFF"],
+      "time": "18:00",
+      "group": "D",
+      "date": "2026-06-13"
+    },
+    {
+      "homeTeam": "Inglaterra",
+      "awayTeam": "Países Bajos",
+      "homeEmoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "awayEmoji": "🇳🇱",
+      "homeColors": ["#FFFFFF", "#CF091B", "#00247D"],
+      "awayColors": ["#FF4500", "#FFFFFF", "#003DA5"],
+      "time": "21:00",
+      "group": "E",
+      "date": "2026-06-13"
+    },
+    {
+      "homeTeam": "Italia",
+      "awayTeam": "Japón",
+      "homeEmoji": "🇮🇹",
+      "awayEmoji": "🇯🇵",
+      "homeColors": ["#009246", "#FFFFFF", "#CE2B37"],
+      "awayColors": ["#FFFFFF", "#BC002D", "#FFFFFF"],
+      "time": "12:00",
+      "group": "F",
+      "date": "2026-06-14"
+    },
+    {
+      "homeTeam": "Colombia",
+      "awayTeam": "Senegal",
+      "homeEmoji": "🇨🇴",
+      "awayEmoji": "🇸🇳",
+      "homeColors": ["#FCD116", "#003087", "#CE1126"],
+      "awayColors": ["#00853F", "#FDEF42", "#E31B23"],
+      "time": "15:00",
+      "group": "G",
+      "date": "2026-06-14"
+    },
+    {
+      "homeTeam": "Uruguay",
+      "awayTeam": "Corea del Sur",
+      "homeEmoji": "🇺🇾",
+      "awayEmoji": "🇰🇷",
+      "homeColors": ["#5EB6E4", "#FFFFFF", "#5EB6E4"],
+      "awayColors": ["#CD2E3A", "#0047A0", "#FFFFFF"],
+      "time": "18:00",
+      "group": "H",
+      "date": "2026-06-14"
+    },
+    {
+      "homeTeam": "Colombia",
+      "awayTeam": "México",
+      "homeEmoji": "🇨🇴",
+      "awayEmoji": "🇲🇽",
+      "homeColors": ["#FCD116", "#003087", "#CE1126"],
+      "awayColors": ["#006847", "#CE1126", "#FFFFFF"],
+      "time": "21:00",
+      "group": "G",
+      "date": "2026-06-21"
+    },
+    {
+      "homeTeam": "Brasil",
+      "awayTeam": "Colombia",
+      "homeEmoji": "🇧🇷",
+      "awayEmoji": "🇨🇴",
+      "homeColors": ["#009C3B", "#FFDF00", "#002776"],
+      "awayColors": ["#FCD116", "#003087", "#CE1126"],
+      "time": "21:00",
+      "group": "G",
+      "date": "2026-06-25"
+    },
+    {
+      "homeTeam": "Final TBD",
+      "awayTeam": "Final TBD",
+      "homeEmoji": "🏆",
+      "awayEmoji": "🏆",
+      "homeColors": ["#C9A84C", "#8B6914", "#FFD700"],
+      "awayColors": ["#C9A84C", "#8B6914", "#FFD700"],
+      "time": "15:00",
+      "group": "FINAL",
+      "date": "2026-07-19"
+    }
+  ]
+}
